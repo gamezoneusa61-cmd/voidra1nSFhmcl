@@ -5,7 +5,7 @@ Steps for downloading things from this repository :
 First : Install Wget using winget
 Open CMD as Adminstrator and paste the following command 
 
-`winget install GNU.Wget`
+`winget install -e --id JernejSimoncic.Wget`
 
 Second install the thing u want by using 
 
