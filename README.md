@@ -14,8 +14,12 @@ Second install the thing u want by using
 Note : Use the Location u want using `cd` and make folder using `mkdir`
 
 to install tailscale :
-msiexec /i https://tailscale.com /quiet /qn
+'msiexec /i https://tailscale.com /quiet /qn'
 
-then use :tailscale up
+then use : 'tailscale up'
+
+To uninstall :
+'winget uninstall Tailscale.Tailscale'
+
 
 Done...
